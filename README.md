@@ -30,6 +30,11 @@ This facilitates the scalability of visual SLAM in large‐scale environments, m
 
 ## Example
 ### [YouTube](https://www.youtube.com/watch?v=dKe99UQfttQ)
+<div align="center">
+
+https://github.com/user-attachments/assets/3d33683c-194d-44fa-a2e0-9e4c73d72878
+
+</div>
 
 <div  align="center"> 
 <img src="figs/1.jpg">
@@ -75,12 +80,6 @@ Examples/Stereo/stereo_kitti Vocabulary/ORBvoc.txt Examples/Stereo/KITTIX.yaml P
 Examples/Stereo-Inertial/stereo_inertial_4season Vocabulary/ORBvoc.txt Examples/Stereo-Inertial/4season.yaml PATH_TO_SEQUENCE_FOLDER
 ```
 
-
-## Citation
-If you find this project is useful in your research or applications,
-please consider giving us a star 🌟 and citing it by the following BibTeX entry.
-```bibtex
-```
 
 
 
