@@ -10,7 +10,7 @@ Jinhu Dong<sup>1</sup>,
 <sup>1</sup> The Chinese University of Hong Kong,
 <sup>2</sup> Westlake University
 
-Accepted by **Journay of Field Robotics (JFR)**
+Accepted by **[Journay of Field Robotics (JFR)](https://onlinelibrary.wiley.com/doi/10.1002/rob.22431)**
 </div>
 
 ## Overview
@@ -80,6 +80,19 @@ Examples/Stereo/stereo_kitti Vocabulary/ORBvoc.txt Examples/Stereo/KITTIX.yaml P
 #### Stereo-Inertial
 ```
 Examples/Stereo-Inertial/stereo_inertial_4season Vocabulary/ORBvoc.txt Examples/Stereo-Inertial/4season.yaml PATH_TO_SEQUENCE_FOLDER
+```
+
+## Citation
+If you find this project is useful in your research or applications, 
+please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+```bibtex
+@article{
+  author = {Zhang, Xiaoyu and Dong, Jinhu and Zhang, Yin and Liu, Yun-Hui},
+  title = {MS-SLAM: Memory-Efficient Visual SLAM With Sliding Window Map Sparsification},
+  journal = {Journal of Field Robotics},
+  doi = {https://doi.org/10.1002/rob.22431},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22431},
+}
 ```
 
 
