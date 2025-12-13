@@ -10,7 +10,7 @@ Jinhu Dong<sup>1</sup>,
 <sup>1</sup> The Chinese University of Hong Kong,
 <sup>2</sup> Westlake University
 
-Accepted by **[Journay of Field Robotics (JFR)](https://onlinelibrary.wiley.com/doi/10.1002/rob.22431)**
+Accepted by **[Journal of Field Robotics (JFR)](https://onlinelibrary.wiley.com/doi/10.1002/rob.22431)**
 </div>
 
 ## Overview
